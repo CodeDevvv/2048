@@ -16,7 +16,7 @@ body {
 }
 
 .logo {
-    width: 120px;
+    width: 90px;
 }
 
 .game-container {
@@ -35,7 +35,7 @@ h1 {
 .Navbar {
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 10px 20px;
     align-items: center;
     margin: 0px 20px;
 }
